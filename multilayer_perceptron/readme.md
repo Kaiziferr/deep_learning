@@ -1,0 +1,6 @@
+- 01_neural_network_diabetes
+    - Learning Curves
+- 02_neural_network_cancer_survival
+    - Cross Validation
+    - Wrapper
+    - Optimización de hiperparametros
