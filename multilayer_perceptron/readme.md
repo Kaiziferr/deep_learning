@@ -6,3 +6,5 @@ Los presentes miniproyectos o workshops se realizaron para mi **aprendizaje prop
     - Cross Validation
     - Wrapper
     - Optimización de hiperparametros
+- 03_clasification_sonar
+    - Pipelines
