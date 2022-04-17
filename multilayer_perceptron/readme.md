@@ -8,3 +8,5 @@ Los presentes miniproyectos o workshops se realizaron para mi **aprendizaje prop
     - Optimización de hiperparametros
 - 03_clasification_sonar
     - Pipelines
+- 04_prediction_microcalcificaciones
+    - Dropout
